@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Main-Portfolio/static/css/main.35924a74.css",
+    "main.js": "/Main-Portfolio/static/js/main.cbe379b8.js",
+    "static/js/787.ec704a7a.chunk.js": "/Main-Portfolio/static/js/787.ec704a7a.chunk.js",
+    "static/media/output-onlinegiftools.gif": "/Main-Portfolio/static/media/output-onlinegiftools.04c5d37278fbffebe5ad.gif",
+    "static/media/me.png": "/Main-Portfolio/static/media/me.593cccaf7511b45925b1.png",
+    "static/media/Programming.gif": "/Main-Portfolio/static/media/Programming.b314b0ea1db3995a71f5.gif",
+    "static/media/bootstrap-icons.woff?": "/Main-Portfolio/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Main-Portfolio/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/emoji.png": "/Main-Portfolio/static/media/emoji.57491c09d31d6fa755e2.png",
+    "static/media/travelSip.png": "/Main-Portfolio/static/media/travelSip.21fe9cd405550681ef58.png",
+    "static/media/movies.PNG": "/Main-Portfolio/static/media/movies.1703f64de830e44bdf8b.PNG",
+    "static/media/scoring.png": "/Main-Portfolio/static/media/scoring.097e582df9402b77a0d8.png",
+    "static/media/digit.png": "/Main-Portfolio/static/media/digit.efc7d5de129351aeaea6.png",
+    "static/media/rock.png": "/Main-Portfolio/static/media/rock.d9a136f26c0d7a338e99.png",
+    "static/media/ToDoList.png": "/Main-Portfolio/static/media/ToDoList.616b2f48b305e8e5b562.png",
+    "static/media/tiktaktoe.png": "/Main-Portfolio/static/media/tiktaktoe.b476db942a5c8d58e6f0.png",
+    "index.html": "/Main-Portfolio/index.html",
+    "main.35924a74.css.map": "/Main-Portfolio/static/css/main.35924a74.css.map",
+    "main.cbe379b8.js.map": "/Main-Portfolio/static/js/main.cbe379b8.js.map",
+    "787.ec704a7a.chunk.js.map": "/Main-Portfolio/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35924a74.css",
+    "static/js/main.cbe379b8.js"
+  ]
+}
